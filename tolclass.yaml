@@ -1,0 +1,7 @@
+train:
+  - data_train/
+val:
+  - data_train/
+
+nc: 5
+names: [ '1','2','3','4','5' ]
